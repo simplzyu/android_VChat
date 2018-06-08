@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/additionnal_0b0c4d26dd693bbbaa4cd636523866fe23626249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/commons-email-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cd5d2b5c11d2898b901e3162d825b804699187d">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/commons-email-1.2_e2d9fb77588c8675d893929585eaa887a9e1f5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/Msc_ddf5b87948e0897e83f7d03347a4fd3decea72cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/gesture-imageview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52c959808b11b777248513aa664cd8b2c5e13959">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/gesture-imageview_de4820b46332ef98ff7976f98f69b9749f8b1d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/afinal_0.5.1_bin_dbe8de235dc17759a80564a69502bc8c7d3fec18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/android-support-v4_806032da2052d295cc0e45a037625ee826892d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/mail_633f4e12bea645febb2a0cd4d39ba49e326d730d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/asmack.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ffad10173ab28a17db77cf10c9a9fc95037305b">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/asmack_dd897e3df34b8a5fee58f42dd7844f033434e4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/activation_f6b0b2297168103536007f1dd2cfe09e17e6ecab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29a2007cb2a3ff22a2b6d17b8f6a60cb42eae5f3">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/Sunflower_dd6d794958c22fceff299a3aeffd3ecd1c9fb89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simplzy/Documents/android_workspace/VChat/app/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3526df34297bab9b9cc33d93d6e68f60fc2f94ea">
+        <dex dex="/Users/simplzy/Documents/android_workspace/VChat/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources_d2f526b6016c68abc176a275a5b47c808a7d8367.jar" />
+    </item>
+
+</items>
